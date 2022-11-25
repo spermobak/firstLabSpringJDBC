@@ -1,4 +1,4 @@
-package firstLab.model;
+package firstLabJDBC.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

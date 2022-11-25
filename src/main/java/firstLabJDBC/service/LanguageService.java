@@ -1,4 +1,4 @@
-package firstLab.service;
+package firstLabJDBC.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
@@ -7,7 +7,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.ResourceBundle;
 
-@Service
+@Service("languageService")
 @RequiredArgsConstructor
 public class LanguageService {
 

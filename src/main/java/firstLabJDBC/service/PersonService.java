@@ -1,13 +1,13 @@
-package firstLab.service;
+package firstLabJDBC.service;
 
-import firstLab.dao.PersonDao;
-import firstLab.model.Person;
+import firstLabJDBC.dao.PersonDao;
+import firstLabJDBC.model.Person;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Service
+@Service("personService")
 @RequiredArgsConstructor
 public class PersonService {
     private final PersonDao personDao;

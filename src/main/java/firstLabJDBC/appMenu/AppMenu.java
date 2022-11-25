@@ -1,8 +1,8 @@
-package firstLab.appMenu;
+package firstLabJDBC.appMenu;
 
-import firstLab.service.LanguageService;
-import firstLab.service.MessageService;
-import firstLab.service.PersonService;
+import firstLabJDBC.service.LanguageService;
+import firstLabJDBC.service.MessageService;
+import firstLabJDBC.service.PersonService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
@@ -67,9 +67,7 @@ public class AppMenu {
                     messageService.printInterfaceMessage(message, "farewellMessage");
                     x = false;
                 }
-                case "commandList" ->{
-                    messageService.printInterfaceMessage(message,"commandList");
-                }
+                case "commandList" -> messageService.printInterfaceMessage(message,"commandList");
                 default -> messageService.printInterfaceMessage(message, "unknownSyntax");
             }
         }

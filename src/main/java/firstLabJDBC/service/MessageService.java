@@ -1,10 +1,10 @@
-package firstLab.service;
+package firstLabJDBC.service;
 
 import org.springframework.stereotype.Service;
 
 import java.util.ResourceBundle;
 
-@Service
+@Service("messageService")
 public class MessageService {
 
     public void printInterfaceMessage(ResourceBundle message, String key){

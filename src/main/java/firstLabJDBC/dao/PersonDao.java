@@ -1,7 +1,7 @@
-package firstLab.dao;
+package firstLabJDBC.dao;
 
-import firstLab.model.Person;
-import firstLab.utils.ConnectionAgent;
+import firstLabJDBC.model.Person;
+import firstLabJDBC.utils.ConnectionAgent;
 import org.springframework.stereotype.Component;
 
 import java.sql.*;

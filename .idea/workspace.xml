@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f10c4bdb-e594-4f2c-859d-83d2c75e31d3" name="Changes" comment="Removed unclaimed annotations, added mein class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+    <list default="true" id="f10c4bdb-e594-4f2c-859d-83d2c75e31d3" name="Changes" comment=":)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/appMenu/AppMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/appMenu/AppMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/config/AppConfig.java" afterDir="false" />
@@ -15,11 +13,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/service/LanguageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/LanguageService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/MessageService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/utils/ConnectionAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/utils/ConnectionAgent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLab/utils/ConnectionProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/utils/ConnectionProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/interfaceLanguage_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/interfaceLanguage_en.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/interfaceLanguage_fr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/interfaceLanguage_fr.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +64,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "51a004736891d6112bb002206545cc0f"
+    "spring.configuration.checksum": "dc5d476ec43fe0dbcab8a3129567758c"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -117,7 +110,8 @@
       <workItem from="1669136302742" duration="1093000" />
       <workItem from="1669194443210" duration="2554000" />
       <workItem from="1669220963094" duration="141000" />
-      <workItem from="1669379725195" duration="1979000" />
+      <workItem from="1669379725195" duration="2326000" />
+      <workItem from="1669388321119" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="Completed first lab">
       <created>1668890509814</created>
@@ -126,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668890509814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":)">
+      <created>1669383758309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669383758309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed first lab" />
     <MESSAGE value="Removed unclaimed annotations, added mein class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unclaimed annotations, added mein class" />
+    <MESSAGE value=":)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":)" />
   </component>
 </project>
