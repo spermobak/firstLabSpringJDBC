@@ -1,4 +1,4 @@
-package firstLab.utils;
+package firstLabJDBC.utils;
 
 
 
