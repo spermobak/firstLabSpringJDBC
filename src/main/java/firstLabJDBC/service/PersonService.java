@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Service("personService")
+@Service
 @RequiredArgsConstructor
 public class PersonService {
     private final PersonDao personDao;

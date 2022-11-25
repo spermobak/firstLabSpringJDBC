@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.ResourceBundle;
 
-@Service("messageService")
+@Service
 public class MessageService {
 
     public void printInterfaceMessage(ResourceBundle message, String key){

@@ -7,7 +7,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.ResourceBundle;
 
-@Service("languageService")
+@Service
 @RequiredArgsConstructor
 public class LanguageService {
 

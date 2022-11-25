@@ -11,6 +11,7 @@ import java.util.Scanner;
 @ComponentScan("firstLabJDBC")
 public class AppConfig {
 
+
     @Bean
     MessageService messageService(){return new MessageService();}
 
