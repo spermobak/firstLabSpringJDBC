@@ -29,7 +29,7 @@ public class PersonDao {
                 Person person = new Person();
                 person.setId(resultSet.getInt("id"));
                 person.setName(resultSet.getString("name"));
-                person.setEge(resultSet.getInt("ege"));
+                person.setAge(resultSet.getInt("age"));
 
                 personList.add(person);
             }
@@ -52,7 +52,7 @@ public class PersonDao {
             person = new Person();
             person.setId(resultSet.getInt("id"));
             person.setName(resultSet.getString("name"));
-            person.setEge(resultSet.getInt("ege"));
+            person.setAge(resultSet.getInt("age"));
 
         } catch (SQLException e) {
             throw new RuntimeException(e);
@@ -72,7 +72,7 @@ public class PersonDao {
             person = new Person();
             person.setId(resultSet.getInt("id"));
             person.setName(resultSet.getString("name"));
-            person.setEge(resultSet.getInt("ege"));
+            person.setAge(resultSet.getInt("age"));
 
         } catch (SQLException e) {
             throw new RuntimeException(e);

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceecfdc2-6221-4d2e-ba4a-42efcf60de49" name="Changes" comment="Completed first Spring JDBC lab">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ceecfdc2-6221-4d2e-ba4a-42efcf60de49" name="Changes" comment="&quot;== null&quot; has been replaced by &quot;isEmpty&quot;">
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/dao/PersonDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/dao/PersonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669390508856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;== null&quot; has been replaced by &quot;isEmpty&quot;">
+      <created>1669573510205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669573510205</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,7 @@
     <MESSAGE value="Removed unclaimed annotations, added mein class" />
     <MESSAGE value=":)" />
     <MESSAGE value="Completed first Spring JDBC lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed first Spring JDBC lab" />
+    <MESSAGE value="&quot;== null&quot; has been replaced by &quot;isEmpty&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;== null&quot; has been replaced by &quot;isEmpty&quot;" />
   </component>
 </project>
