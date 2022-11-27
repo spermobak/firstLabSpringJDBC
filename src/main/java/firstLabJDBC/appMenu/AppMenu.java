@@ -39,7 +39,7 @@ public class AppMenu {
                     messageService.printInterfaceMessage(message, "findById");
                     int id = scanner.nextInt();
 
-                    if (personService.findById(id).getName() == null) {
+                    if (personService.findById(id).getName().isEmpty()) {
                         messageService.printInterfaceMessage(message, "notFoundPerson");
                     } else {
                         messageService.printInterfaceMessage(message, "personById");
@@ -50,7 +50,7 @@ public class AppMenu {
                     messageService.printInterfaceMessage(message, "findByName");
                     var name = scanner.next();
 
-                    if (personService.findByName(name).getName() == null) {
+                    if (personService.findByName(name).getName().isEmpty()) {
                         messageService.printInterfaceMessage(message, "notFoundPerson");
                     } else {
                         messageService.printInterfaceMessage(message, "personByName");

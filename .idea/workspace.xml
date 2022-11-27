@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceecfdc2-6221-4d2e-ba4a-42efcf60de49" name="Changes" comment=":)">
+    <list default="true" id="ceecfdc2-6221-4d2e-ba4a-42efcf60de49" name="Changes" comment="Completed first Spring JDBC lab">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/appMenu/AppMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/appMenu/AppMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/LanguageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/LanguageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/MessageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstLabJDBC/service/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,8 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;dc5d476ec43fe0dbcab8a3129567758c&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;dc5d476ec43fe0dbcab8a3129567758c&quot;,
+    &quot;sql.rename.search.for.storage.occurrences&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -87,7 +82,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f10c4bdb-e594-4f2c-859d-83d2c75e31d3" name="Changes" comment="" />
+      <changelist id="ceecfdc2-6221-4d2e-ba4a-42efcf60de49" name="Changes" comment="Completed first Spring JDBC lab" />
       <created>1668419925819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -126,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669383758309</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed first Spring JDBC lab">
+      <created>1669390508856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669390508856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +160,7 @@
     <MESSAGE value="Completed first lab" />
     <MESSAGE value="Removed unclaimed annotations, added mein class" />
     <MESSAGE value=":)" />
-    <option name="LAST_COMMIT_MESSAGE" value=":)" />
+    <MESSAGE value="Completed first Spring JDBC lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed first Spring JDBC lab" />
   </component>
 </project>
